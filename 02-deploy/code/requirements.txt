@@ -1,0 +1,4 @@
+
+bitsandbytes
+accelerate
+git+https://github.com/huggingface/transformers.git@main#egg=transformers
